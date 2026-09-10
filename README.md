@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/ayush8929/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayush8929/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Math
 |  |
 | ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/ayush8929/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayush8929/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
