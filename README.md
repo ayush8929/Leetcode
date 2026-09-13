@@ -22,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ayush8929/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Hash Table
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/ayush8929/Leetcode/tree/master/0981-time-based-key-value-store) |
+## String
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/ayush8929/Leetcode/tree/master/0981-time-based-key-value-store) |
+## Binary Search
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/ayush8929/Leetcode/tree/master/0981-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/ayush8929/Leetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
