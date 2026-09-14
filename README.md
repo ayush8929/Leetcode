@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ayush8929/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/ayush8929/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayush8929/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Simulation
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/ayush8929/Leetcode/tree/master/0981-time-based-key-value-store) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ayush8929/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
