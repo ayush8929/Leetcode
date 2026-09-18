@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/ayush8929/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayush8929/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/ayush8929/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayush8929/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ayush8929/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Binary Search
 |  |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ayush8929/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayush8929/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayush8929/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
