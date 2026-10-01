@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush8929/Leetcode/tree/master/0020-valid-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/ayush8929/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayush8929/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush8929/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush8929/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush8929/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ayush8929/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
@@ -70,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush8929/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush8929/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
