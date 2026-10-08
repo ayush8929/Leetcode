@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush8929/Leetcode/tree/master/0020-valid-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/ayush8929/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1021-remove-outermost-parentheses](https://github.com/ayush8929/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayush8929/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush8929/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ayush8929/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush8929/Leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ayush8929/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush8929/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ayush8929/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush8929/Leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ayush8929/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush8929/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
